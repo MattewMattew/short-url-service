@@ -1,0 +1,19 @@
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Yii
+/runtime/
+/web/assets/
+/web/uploads/
+/vendor/
+/node_modules/
+
+# Environment
+.env
+*.env
+
+# Docker
+docker-compose.override.yml
+
